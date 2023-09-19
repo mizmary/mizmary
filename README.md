@@ -2,7 +2,7 @@
 
 ---
 
-Я начинающий frontend-разработчик. Сейчас учусь на втором курсе НИУ ВШЭ на образовательной программе "Програмная инженерия". Параллельно прохожу онлайн курсы по веб разработке.
+Я начинающий frontend-разработчик. Сейчас учусь на третьем курсе НИУ ВШЭ на образовательной программе "Програмная инженерия". Параллельно прохожу онлайн курсы по веб разработке.
 <div align = "center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNmYjEzNzE4ZmRmYmIzNDc4ZTE3YzFkM2RlYWZkMzI2MjQxZjExMSZjdD1z/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200"/>
  </div>
