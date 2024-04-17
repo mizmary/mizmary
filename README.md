@@ -17,7 +17,7 @@
 </p>
 
 ### GitHub Статистика:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mizmary_github&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mizmarygithub&show_icons=true)
 
 ### Используемые языки:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mizmary_github&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mizmarygithub&layout=compact)
