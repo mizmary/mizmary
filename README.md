@@ -3,7 +3,7 @@
 
 ### Как со мной связаться:
 [![Email](https://img.shields.io/badge/Email-simk.otar%40gmail.com-red)](mailto:simk.otar@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40simmasha-blue)](https://t.me/simmasha)
+[![Telegram](https://img.shields.io/badge/Telegram-%40simmasha-blue)](https://t.me/mizmary22)
 
 <h3 align="left">Технологии, которыми я владею</h3>
 <p align="left"> 
