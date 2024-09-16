@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-simk.otar%40gmail.com-red)](mailto:simk.otar@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40simmasha-blue)](https://t.me/mizmary22)
 
-<h3 align="left">Технологии, которыми я владею</h3>
+<h3 align="left">Технологии, которыми я владею:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
@@ -24,7 +24,7 @@
 
 
 
-<h3>моя статистика</h3>
+<h3>Моя статистика</h3>
 <div align=center>
 <img src="https://streak-stats.demolab.com?user=mizmary&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mizmary&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
